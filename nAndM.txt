@@ -1,0 +1,7 @@
+input n
+m = 10
+if n%2==1
+    n+=m
+    print n
+else
+    print n
